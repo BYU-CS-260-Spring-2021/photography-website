@@ -36,8 +36,8 @@ the Creative Commons license.
 
 ## Starting the lab
 
-To start the lab, you **must** follow this
-[GitHub Classroom link](https://classroom.github.com/a/dPFNTp24). This
+To start the lab, you **must** follow the GitHub Classroom link in Canvas. If
+you got here some other way, go back to Canvas. Using the GitHub Classroom link
 will create a private repository for you using our classroom site. We
 will only grade repositories created and submitted this way.
 
