@@ -41,8 +41,8 @@ you got here some other way, go back to Canvas. Using the GitHub Classroom link
 will create a private repository for you using our classroom site. We
 will only grade repositories created and submitted this way.
 
-Once you "Accept the assignment" on github classroom, it will create a
-new repository for you and grant you access to it on github. In order
+Once you "Accept the assignment" on GitHub classroom, it will create a
+new repository for you and grant you access to it on GitHub. In order
 to start working on the lab, simply clone the repository to your laptop
 or other working environment.
 
