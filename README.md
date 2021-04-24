@@ -51,6 +51,10 @@ or other working environment.
 Use the [tutorials](/tutorials/README.md)
 for tips on using Bootstrap and creating grid layouts.
 
+## Originality Requirements
+
+You should use your own original content.  Do not use lorem ipsum or other filler text or repeated pictures.
+
 ## Style Requirements
 
 You must create your own style using hand-coded CSS. You are welcome to
